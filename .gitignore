@@ -1,0 +1,8 @@
+# untracked files
+public/bundle.min.js
+public/bundle.min.js.LICENSE.txt
+public/bundle.min.js.map
+package-lock.json
+
+# untracked folders
+node_modules
